@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T11:40:39.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="W32Gew5cUPeF7sahRQ54" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T11:44:34.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="eGok03mrFpwPBaUoHBAM" version="22.1.9" type="github">
   <diagram name="Page-1" id="iptLeCI3MLoq2-NPcGq8">
     <mxGraphModel dx="1852" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="430" y="790" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jN4S2BLAtv_jYJFt8GwO-5" value="XHTD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;labelBackgroundColor=default;strokeColor=#66B2FF;" parent="1" vertex="1">
-          <mxGeometry x="166" y="232" width="140" height="60" as="geometry" />
+          <mxGeometry x="130" y="256" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jN4S2BLAtv_jYJFt8GwO-6" value="Rating profile" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="-20" y="713" width="140" height="90" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jN4S2BLAtv_jYJFt8GwO-62" value="DBTG" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;strokeColor=#CDA2BE;" parent="1" vertex="1">
-          <mxGeometry x="565" y="232" width="140" height="60" as="geometry" />
+          <mxGeometry x="607" y="256" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jN4S2BLAtv_jYJFt8GwO-70" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="jN4S2BLAtv_jYJFt8GwO-50" edge="1" source="jN4S2BLAtv_jYJFt8GwO-29">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -341,6 +341,9 @@
           <mxGeometry x="-0.4202" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3nKmkYwa7zbvBV-Bcch5-154" value="DATA MODEL B_SCORE" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=6;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-22" y="160" width="782" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
